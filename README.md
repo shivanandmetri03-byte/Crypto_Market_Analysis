@@ -1,2 +1,3 @@
 # Crypto_Market_Analysis
-it's my second Project-Shivanand Metri
+it's my second Project
+Auhtor-Shivanand Metri
